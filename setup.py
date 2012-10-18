@@ -18,12 +18,12 @@ except:
     readme = None
 
 setup(
-    name='tornadio2',
+    name='trndio2',
     version='0.0.4',
     author='Serge S. Koval',
     author_email='serge.koval@gmail.com',
     scripts=[],
-    url='http://github.com/soloweb/tornadio2/',
+    url='https://github.com/soloweb/tornadio2/',
     license=license,
     description='Socket.io 0.7+ server implementation on top of Tornado framework',
     long_description=readme,
